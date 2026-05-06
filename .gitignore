@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/model.pth
+.kaggle/
+.ipynb_checkpoints/
+venv/
+.env
